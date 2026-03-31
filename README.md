@@ -9,7 +9,7 @@
 |------------|-------------------------------|
 | Name       | Abhijeet Singh Rajput         |
 | Reg. No.   | 25BAI10490                    |
-| Branch     | Btech                         |
+| Branch     | Btech                         |  
 | Year       | First Year (2025–2026)        |
 | Course     | CSE0001 – Digital Literacy    |
 | Date       | March 2025                    |
